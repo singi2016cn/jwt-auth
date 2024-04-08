@@ -9,6 +9,10 @@
 
 ## Documentation
 
+```
+!!! upgrade version : "lcobucci/jwt": "^4.0"  => "lcobucci/jwt": "^4.1"
+```
+
 [jwt-auth.com](https://jwt-auth.com)
 
 | jwt-auth version | Laravel version(s) |
